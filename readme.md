@@ -39,5 +39,5 @@ https://github.com/faizalindra/ujikom-golang-prakerja
 # Deploy Link
 
 ```bash
-"belum ada, nanti bisa di cek di github"
+https://ujikom-golang-prakerja-production-ffb1.up.railway.app/api
 ```

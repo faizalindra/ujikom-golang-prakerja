@@ -1432,7 +1432,7 @@
 			]
 		},
 		{
-			"name": "New Request",
+			"name": "Welcome",
 			"request": {
 				"method": "GET",
 				"header": [],
